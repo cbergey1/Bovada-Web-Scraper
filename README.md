@@ -1,2 +1,4 @@
 # Bovada-Web-Scraper
-Collects sports betting data from an XML feed
+Collects MLB sports betting data from a Bovada XML feed
+XML feed url: http://sportsfeeds.bovada.lv/basic/MLB.xml 
+
